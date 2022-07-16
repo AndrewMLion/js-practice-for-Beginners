@@ -1,1 +1,1 @@
-# js-practice-for-Beginners
+# JavaScript Practice for Beginners
